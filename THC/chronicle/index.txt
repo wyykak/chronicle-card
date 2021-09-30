@@ -28,6 +28,9 @@ myrdp.ydk
 saya (2).ydk
 saya .ydk
 saya.ydk
+tc777_最终一战！？.ydk
+tc777_胡狗凭依.ydk
+tc777_阿卡林.ydk
 thc5.8.ydk
 touch fish.ydk
 wyykak (2).ydk
@@ -56,10 +59,14 @@ wyykak.ydk
 丢人暗调.ydk
 人形 (2).ydk
 人形.ydk
+人形小爱2020 (1).ydk
 人形小爱2020.ydk
 伊蕾娜.ydk
+伞和小伞.ydk
 凭依卡堆.ydk
 参赛ID朱鹭子.ydk
+反转实验.ydk
+反转实验2.ydk
 古明地.ydk
 呆毛.ydk
 呆毛の废狱暗调卡组.ydk
@@ -87,12 +94,17 @@ wyykak.ydk
 太阳花幽香 (6).ydk
 太阳花幽香.ydk
 妖精坑beat（1.999i）.ydk
+妹红实验.ydk
+妹红实验II.ydk
+妹红实验III.ydk
 学会展开就可以出师的新人暗调卡组.ydk
 小爱回魔界啦 (2).ydk
 小爱回魔界啦 (3).ydk
 小爱回魔界啦.ydk
+小爱红魔之宴改1 (1).ydk
 小爱红魔之宴改1.ydk
 小爱红魔新.ydk
+小爱魔界时空娱乐改3.ydk
 尸体通用轴.ydk
 帕露.ydk
 帕露帕露.ydk
@@ -101,6 +113,7 @@ wyykak.ydk
 帕露西.ydk
 废狱ftk.ydk
 总之先融合.ydk
+报社.ydk
 抽抽乐.ydk
 教主⑨ (2).ydk
 教主⑨ (3).ydk
@@ -113,13 +126,17 @@ wyykak.ydk
 星符魔理沙.ydk
 暗调妖精.ydk
 最终一战！？.ydk
+有顶天.ydk
+有顶天II.ydk
 李波路霸幻想入_鸟筒力量.ydk
 来兄.ydk
 椿.ydk
+水仪式.ydk
 污染物_nl星曜FTK.ydk
 污染物_nl海兽.ydk
 污染物_nl秦心FTK.ydk
 污染物_连锁烧.ydk
+灵梦实验.ydk
 玄火八卦'' (2).ydk
 玄火八卦''''.ydk
 玄火八卦'''.ydk
@@ -138,12 +155,15 @@ wyykak.ydk
 芙兰芙影 (5).ydk
 芙兰芙影 (6).ydk
 芙兰芙影.ydk
+茨华仙.ydk
 落雪鸦杀 (2).ydk
 落雪鸦杀.ydk
 血月 (2).ydk
 血月 (3).ydk
 血月 (4).ydk
 血月.ydk
+血月_秘封.ydk
+血月_苍天反魂蝶.ydk
 讨伐呆毛大魔王.ydk
 讨伐大呆毛 (2).ydk
 讨伐大呆毛.ydk
@@ -153,12 +173,16 @@ wyykak.ydk
 连锁烧.ydk
 逗真逗 (2).ydk
 逗真逗.ydk
+酒宴抽卡.ydk
+酒宴抽卡实验II.ydk
 金子 (2).ydk
 金子 (3).ydk
 金子 (4).ydk
 金子 (5).ydk
 金子 (6).ydk
 金子.ydk
+金调星态.ydk
+金调星态改.ydk
 钻石星尘拳.ydk
 阿卡林(2).ydk
 阿卡林（兔）.ydk
@@ -166,3 +190,7 @@ wyykak.ydk
 阿卡林（龙）.ydk
 雪舞beat(test.ydk
 雪舞beat.ydk
+魔理沙-七曜.ydk
+魔理沙实验-压缩.ydk
+魔理沙实验.ydk
+鸬鹚_源始魔术挂秦心.ydk
